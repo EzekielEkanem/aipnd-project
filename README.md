@@ -46,7 +46,7 @@ flowers: folder of image data.
 
 **Train the image classifier**
 
-![train.py](https://github.com/EzekielEkanem/aipnd-project/blob/master/train.py): Train the image classifier, report validation accuracy along training, and save the trained model as a checkpoint.
+[train.py](https://github.com/EzekielEkanem/aipnd-project/blob/master/train.py): Train the image classifier, report validation accuracy along training, and save the trained model as a checkpoint.
 
 * Basic usage:
 
@@ -63,7 +63,7 @@ flowers: folder of image data.
  
   **Identify flower name from a new image**
 
-![predict.py](https://github.com/EzekielEkanem/aipnd-project/blob/master/predict.py): Use the trained image classifier to predict flower name along with the probability of that name
+[predict.py](https://github.com/EzekielEkanem/aipnd-project/blob/master/predict.py): Use the trained image classifier to predict flower name along with the probability of that name
 
 * Basic usage:
 
